@@ -1,2 +1,2 @@
 # js-constructor
-Site Constructor on Vanilla JS
+Site Constructor on Vanilla JS.
